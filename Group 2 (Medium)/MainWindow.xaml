@@ -28,48 +28,48 @@
                  TextWrapping="Wrap" Text="0" VerticalAlignment="Center" Width="120" FontSize="20" 
                  Margin="55,68,61,8" PreviewTextInput="numberTextbox_PreviewTextInput" TextChanged="numberTextbox_TextChanged"/>
 
-        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="30" 
+        <Ellipse Fill="#FF7F7FEE" HorizontalAlignment="Center" Height="30" 
                  Grid.Row="1" Stroke="Black" VerticalAlignment="Center" Width="55" Visibility="Collapsed"/>
-        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="30" 
+        <Ellipse Fill="#FF8023CD" HorizontalAlignment="Center" Height="30" 
                  Grid.Row="1" Stroke="Black" VerticalAlignment="Center" Width="55"
                  Grid.Column="1" Visibility="Collapsed" />
-        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="30" 
+        <Ellipse Fill="#FFD11AD1" HorizontalAlignment="Center" Height="30" 
                  Grid.Row="1" Stroke="Black" VerticalAlignment="Center" Width="55"
                  Grid.Column="2" Visibility="Collapsed"/>
-        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="30" 
+        <Ellipse Fill="#FFE21D65" HorizontalAlignment="Center" Height="30" 
                  Grid.Row="1" Stroke="Black" VerticalAlignment="Center" Width="55"
                  Grid.Column="3" Visibility="Collapsed"/>
-        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="30" 
+        <Ellipse Fill="#FFE43D23" HorizontalAlignment="Center" Height="30" 
                  Grid.Row="1" Stroke="Black" VerticalAlignment="Center" Width="55"
                  Grid.Column="4" Visibility="Collapsed"/>
 
-        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="30" 
+        <Ellipse Fill="#FFE6BC2F" HorizontalAlignment="Center" Height="30" 
                  Grid.Row="2" Stroke="Black" VerticalAlignment="Center" Width="55" Visibility="Collapsed"/>
-        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="30" 
+        <Ellipse Fill="#FFB7E835" HorizontalAlignment="Center" Height="30" 
                  Grid.Row="2" Stroke="Black" VerticalAlignment="Center" Width="55"
                  Grid.Column="1" Visibility="Collapsed"/>
-        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="30" 
+        <Ellipse Fill="#FF40D331" HorizontalAlignment="Center" Height="30" 
                  Grid.Row="2" Stroke="Black" VerticalAlignment="Center" Width="55"
                  Grid.Column="2" Visibility="Collapsed"/>
-        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="30" 
+        <Ellipse Fill="#FF0DD483" HorizontalAlignment="Center" Height="30" 
                  Grid.Row="2" Stroke="Black" VerticalAlignment="Center" Width="55"
                  Grid.Column="3" Visibility="Collapsed"/>
-        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="30" 
+        <Ellipse Fill="#FF16C5E0" HorizontalAlignment="Center" Height="30" 
                  Grid.Row="2" Stroke="Black" VerticalAlignment="Center" Width="55"
                  Grid.Column="4" Visibility="Collapsed"/>
 
-        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="30" 
+        <Ellipse Fill="#FF0F88DC" HorizontalAlignment="Center" Height="30" 
                  Grid.Row="3" Stroke="Black" VerticalAlignment="Center" Width="55" Visibility="Collapsed"/>
-        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="30" 
+        <Ellipse Fill="#FF0E53CB" HorizontalAlignment="Center" Height="30" 
                  Grid.Row="3" Stroke="Black" VerticalAlignment="Center" Width="55"
                  Grid.Column="1" Visibility="Collapsed"/>
-        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="30" 
+        <Ellipse Fill="#FF5A19E6" HorizontalAlignment="Center" Height="30" 
                  Grid.Row="3" Stroke="Black" VerticalAlignment="Center" Width="55"
                  Grid.Column="2" Visibility="Collapsed"/>
-        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="30" 
+        <Ellipse Fill="#FFB216E0" HorizontalAlignment="Center" Height="30" 
                  Grid.Row="3" Stroke="Black" VerticalAlignment="Center" Width="55"
                  Grid.Column="3" Visibility="Collapsed"/>
-        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="30" 
+        <Ellipse Fill="#FFEC3678" HorizontalAlignment="Center" Height="30" 
                  Grid.Row="3" Stroke="Black" VerticalAlignment="Center" Width="55"
                  Grid.Column="4" Visibility="Collapsed"/>
 
